@@ -11,7 +11,7 @@ import InputLabel from '@mui/material/InputLabel';
 import MenuItem from '@mui/material/MenuItem';
 import Select from '@mui/material/Select';
 import { useRef } from 'react';
-import { editResumeAPI } from '../services/allAPI';
+import { editResumeAPI } from '../Services/allAPI';
 
 const style = {
   position: 'absolute',
