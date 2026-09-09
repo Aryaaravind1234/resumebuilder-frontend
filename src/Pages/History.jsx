@@ -3,7 +3,7 @@ import Paper from '@mui/material/Paper';
 import { Box } from '@mui/material';
 import { MdDelete } from 'react-icons/md';
 import { Link } from 'react-router-dom';
-import { getHistoryAPI, deleteHistoryAPI } from '../services/allAPI';
+import { getHistoryAPI, deleteHistoryAPI } from '../Services/allAPI';
 
 
 

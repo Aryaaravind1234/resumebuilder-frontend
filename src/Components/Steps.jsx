@@ -13,7 +13,7 @@ import Select from '@mui/material/Select';
 import jobType from '../assets/jobRole.json';
 import jobSkills from '../assets/jobSkills.json';
 import summaries from '../assets/summaries.json';
-import { addResumeAPI } from '../services/allAPI';
+import { addResumeAPI } from '../Services/allAPI';
 import { useNavigate } from 'react-router-dom';
 
 const steps = ['Basic Information', 'Contact Details', 'Education Details', 'Review & Submit'];
